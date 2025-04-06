@@ -1,0 +1,4 @@
+portfolio_server/portfolio.json
+.env/
+portfolio_client/__pycache__/
+portfolio_server/node_modules/
