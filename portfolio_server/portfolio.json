@@ -1,0 +1,58 @@
+{
+    "config": {
+        "cash": {
+            "usd_owned": 12.20,
+            "cad_owned": 10.36
+        },
+        "pcts": {
+            "pct_vt": 0.35,
+            "pct_voo": 0.2,
+            "pct_idv_divs": 0.1, 
+            "pct_etf_divs": 0.2, 
+            "pct_gold": 0.05,
+            "pct_btc": 0.1
+        }
+    },
+    "assets": {
+        "VT": {
+            "type": "vt",
+            "shares_owned": 186
+        },
+        "VOO": {
+            "type": "voo",
+            "shares_owned": 24
+        },
+        "JEPI": {
+            "type": "etf_divs",
+            "shares_owned": 75
+        },
+        "HDV": {
+            "type": "etf_divs",
+            "shares_owned": 34
+        },
+        "SCHD": {
+            "type": "etf_divs",
+            "shares_owned": 147 
+        },
+        "ENB": {
+            "type": "idv_divs",
+            "shares_owned": 40
+        },
+        "MO": {
+            "type": "idv_divs",
+            "shares_owned": 31
+        },
+        "ARCC": {
+            "type": "idv_divs",
+            "shares_owned": 92
+        },
+        "BTC-USD": {
+            "type": "btc",
+            "shares_owned": 0.07967683
+        },
+        "IAU": {
+            "type": "gold",
+            "shares_owned": 52
+        }
+    }
+}
